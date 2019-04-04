@@ -1,5 +1,5 @@
 id: terminal-sample
-version: 0.0.1
+version: 0.0.2
 type: Theia plugin
 name: Theia Sample Plugin - Terminal
 title: Theia Sample Plugin - Terminal
