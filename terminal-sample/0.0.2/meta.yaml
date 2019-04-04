@@ -1,0 +1,11 @@
+id: terminal-sample
+version: 0.0.1
+type: Theia plugin
+name: Theia Sample Plugin - Terminal
+title: Theia Sample Plugin - Terminal
+description: Theia Sample Plugin - Terminal
+url: https://github.com/AndrienkoAleksandr/term-api-samples-frontend/blob/master/term.theia?raw=true
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+firstPublicationDate: "2019-03-15"
+attributes:
+  containerImage: "eclipse/che-theia-endpoint-runtime:next"
