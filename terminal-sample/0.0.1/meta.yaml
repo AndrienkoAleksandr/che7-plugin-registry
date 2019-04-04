@@ -8,4 +8,4 @@ url: https://github.com/azatsarynnyy/che7-plugins/blob/master/terminal-sample/te
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 firstPublicationDate: "2019-03-15"
 attributes:
-  containerImage: "aandrienko/che-theia-endpoint-runtime:nightly"
+  containerImage: "eclipse/che-theia-endpoint-runtime:next"
